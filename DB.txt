@@ -16,3 +16,7 @@ https://steamcommunity.com/profiles/76561199163839516, https://www.battlemetrics
 https://steamcommunity.com/profiles/76561199092626838, https://www.battlemetrics.com/players/965004691
 https://steamcommunity.com/profiles/76561199218912856, https://www.battlemetrics.com/players/1019834575
 https://steamcommunity.com/profiles/76561198902795152, https://www.battlemetrics.com/players/284062704
+https://steamcommunity.com/profiles/76561198255422210, https://www.battlemetrics.com/players/868531368
+https://steamcommunity.com/profiles/76561198420631825, https://www.battlemetrics.com/players/998353255
+https://steamcommunity.com/profiles/76561199018813616, https://www.battlemetrics.com/players/943814173
+https://steamcommunity.com/profiles/76561199254789125, https://www.battlemetrics.com/players/1065202422
